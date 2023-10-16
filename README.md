@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Header -->
 # Hi, I'm Una Paruma! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/una-paruma/)
